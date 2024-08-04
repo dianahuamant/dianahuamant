@@ -11,13 +11,13 @@
 
 ### :woman_technologist: Sobre mí :
 
-Apasionada de la tecnología y disfrutando de una transición laboral a ser QA Engineer <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Apasionada de la tecnología y disfrutando de ser QA Engineer <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* :telescope: Actualmente estoy trabajando en comunicaciones e investigación en una ONG pero necesito nuevos retos :muscle:
+* :telescope: Actualmente estoy trabajando en Kwema, una startup que busca la seguridad del trabajador en hospitales de USA
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: en el bootcamp para QA Engineer, sin dejar de lado las increíbles herramientas aprendidas para comunicación digital
+* :seedling: Soy bastante observadora, detallista y organizada
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+* :heartbeat: Me encanta aprender constantemente y tener nuevos retos :muscle:
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Diana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diana-huaman-torres/)
 
